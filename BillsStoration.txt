@@ -1,0 +1,129 @@
+
+BILL NO: 1
+Customer: shlok | Phone: 34982
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 36000
+Total: Rs. 36000
+----------------------------------------
+
+BILL NO: 2
+Vendor: garnier | Phone: 398
+Product: Vitamin C Serum | Qty: 50 | Subtotal: 75000
+Total: Rs. 75000
+----------------------------------------
+
+BILL NO: 3
+Customer: asdf | Phone: asdf
+Product: Vitamin C Serum | Qty: 2 + 0 free | Subtotal: 6000
+Total: Rs. 6000
+----------------------------------------
+
+BILL NO: 4
+Customer: asdf | Phone: asdf
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 36000
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 36000
+Total: Rs. 72000
+----------------------------------------
+
+BILL NO: 5
+Customer: asdf | Phone: asdf
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 36000
+Total: Rs. 36000
+----------------------------------------
+
+BILL NO: 6
+Customer: asdf | Phone: asdf
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 36000
+Total: Rs. 36000
+----------------------------------------
+
+BILL NO: 7
+Vendor: asdf | Phone: asdf
+Product: Vitamin C Serum | Qty: 12 | Subtotal: 18000
+Total: Rs. 18000
+----------------------------------------
+
+BILL NO: 8
+Customer: asdf | Phone: asdf
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 36000
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 36000
+Total: Rs. 72500
+----------------------------------------
+
+BILL NO: 9
+Vendor: Garnier | Phone: 9766562005
+Product: Vitamin C Serum | Qty: 12 | Subtotal: 18000
+Product: Skin Cleanser | Qty: 100 | Subtotal: 100000
+Total: Rs. 118000
+----------------------------------------
+
+BILL NO: 10
+Vendor: garnier | Phone: 230948238
+Product: Vitamin C Serum | Qty: 100 | Subtotal: 150000
+Product: Vitamin C Serum | Qty: 100 | Subtotal: 100000
+Total: Rs. 250000
+----------------------------------------
+
+BILL NO: 1
+Customer: BIKRAM TAMANG  | Phone: 209332408
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 24000
+Total: Rs. 24500
+----------------------------------------
+
+BILL NO: 2
+Customer: BIKRAM TAMANG | Phone: 976562005
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 24000
+Product: Skin Cleanser | Qty: 6 + 2 free | Subtotal: 12000
+Product: Sunscreen | Qty: 1 + 0 free | Subtotal: 1700
+Total: Rs. 38200
+----------------------------------------
+
+BILL NO: 3
+Vendor: garnier | Phone: 230984234
+Product: Vitamin C Serum | Qty: 100 | Subtotal: 100000
+Product: Skin Cleanser | Qty: 250 | Subtotal: 250000
+Total: Rs. 350000
+----------------------------------------
+
+BILL NO: 1
+Customer: Neha K.C. Khatri | Phone: 9765412964
+Product: Vitamin C Serum | Qty: 2 + 0 free | Subtotal: 4000
+Product: Skin Cleanser | Qty: 3 + 1 free | Subtotal: 6000
+Total: Rs. 10000
+----------------------------------------
+
+BILL NO: 2
+Customer: neha | Phone: 234098
+Product: Vitamin C Serum | Qty: 3 + 1 free | Subtotal: 6000
+Total: Rs. 6000
+----------------------------------------
+
+BILL NO: 3
+Customer: bikram | Phone: 2
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 24000
+Total: Rs. 24000
+----------------------------------------
+
+BILL NO: 4
+Vendor: fdasdf | Phone: asdf
+Product: Vitamin C Serum | Qty: 12 | Subtotal: 12000
+Total: Rs. 12000
+----------------------------------------
+
+BILL NO: 5
+Customer: bikram | Phone: 234234
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 24000
+Product: Skin Cleanser | Qty: 3 + 1 free | Subtotal: 6000
+Total: Rs. 30500
+----------------------------------------
+
+BILL NO: 6
+Vendor: garnier | Phone: 234234
+Product: Vitamin C Serum | Qty: 12 | Subtotal: 12000
+Total: Rs. 12000
+----------------------------------------
+
+BILL NO: 7
+Customer: the rock | Phone: 23904823489
+Product: Vitamin C Serum | Qty: 12 + 4 free | Subtotal: 24000
+Total: Rs. 24500
+----------------------------------------

@@ -1,0 +1,12 @@
+-------WeCare Wholesale--------
+   Kamalpokhari, Kathmandu
+  Bill No.: 7
+-------Tax Invoice ------
+Date: 2025-05-18 17:08:43.239611
+Customer: the rock
+Phone: 23904823489
+Items Purchased:
+Product: Vitamin C Serum | Brand:  Garnier | Qty: 12 + 4 free | Unit Price: 2000 | Subtotal: 24000
+Delivery Charge: 500
+Total: Rs. 24500
+Thank you! Visit Us again!!

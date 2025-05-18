@@ -1,0 +1,11 @@
+-------WeCare Wholesale--------
+   Kamalpokhari, Kathmandu
+  Bill No.: 6
+-------Tax Invoice ------
+Date: 2025-05-17 19:44:25.576726
+Vendor: garnier
+Phone: 234234
+Items Restocked:
+Product: Vitamin C Serum | Brand:  Garnier | Qty: 12 | Unit Price: 1000 | Subtotal: 12000
+Total: Rs. 12000
+Thank you! Visit Us again!!

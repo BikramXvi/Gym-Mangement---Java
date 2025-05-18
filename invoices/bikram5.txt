@@ -1,0 +1,13 @@
+-------WeCare Wholesale--------
+   Kamalpokhari, Kathmandu
+  Bill No.: 5
+-------Tax Invoice ------
+Date: 2025-05-17 19:43:12.980552
+Customer: bikram
+Phone: 234234
+Items Purchased:
+Product: Vitamin C Serum | Brand:  Garnier | Qty: 12 + 4 free | Unit Price: 2000 | Subtotal: 24000
+Product: Skin Cleanser | Brand:  Cetaphil | Qty: 3 + 1 free | Unit Price: 2000 | Subtotal: 6000
+Delivery Charge: 500
+Total: Rs. 30500
+Thank you! Visit Us again!!
